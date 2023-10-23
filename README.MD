@@ -1,4 +1,4 @@
-Powerline Fonts should be installed from: https://github.com/powerline/fonts.git
+Powerline Fonts should be installed from: https://github.com/ryanoasis/nerd-fonts/
 
 Vim Airline plugin should be installed from: https://github.com/vim-airline/vim-airline.git
 
